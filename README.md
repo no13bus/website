@@ -18,3 +18,6 @@ This repo contains the code for the official website of Zolplay.
 pnpm i
 pnpm dev
 ```
+
+## Roadmap
+- other auth support
